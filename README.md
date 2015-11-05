@@ -2,5 +2,5 @@
 
 Project compendium:
 
-WordPress Plugin - SNC Stock Picker:
+WordPress Plugin - Almond Stock Prices.
 
