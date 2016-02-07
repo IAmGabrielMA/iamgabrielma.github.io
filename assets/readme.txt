@@ -1,0 +1,1 @@
+en esta carpeta irán todos los assets que usaré para todos los proyectos, así se mantienen juntos en la misma carpeta
